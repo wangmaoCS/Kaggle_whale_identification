@@ -21,3 +21,4 @@ To faciliate the batch extraction, the *batch_extract_whale_test.py* and *batch_
 ## Spatial Verification
 
 ## Display Local Feature Matches
+For query 42, the first result by the baseline is illustrated as ![Initial Match](https://github.com/wangmaoCS/Kaggle_whale_identification/blob/master/query41.jpg), and the match result after spatial verification is ![SV Match](https://github.com/wangmaoCS/Kaggle_whale_identification/blob/master/query41_sp.jpg)
